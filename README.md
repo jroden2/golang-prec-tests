@@ -12,7 +12,7 @@ If a change needs to occur please create a pull request.
 ## Licence
 MIT License
 
-Copyright (c) 2023 Jack Roden (jroden2@jaguarlandrover.com)
+Copyright (c) 2023 Jack Roden
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
